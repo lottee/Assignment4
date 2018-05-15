@@ -2,7 +2,7 @@
  * Contact.h
  *
  *  Created on: Oct 2, 2017
- *      Author: Sophie
+ *      Author: Robin Shaw
  */
 
 
